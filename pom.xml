@@ -25,7 +25,7 @@
         <mockito.version>2.26.0</mockito.version>
         <java.version>13</java.version>
         <springfox.version>2.9.2</springfox.version>
-        <jackson-datatype-jsr310.version>2.9.4</jackson-datatype-jsr310.version>
+        <jackson-datatype-jsr310.version>2.9.8</jackson-datatype-jsr310.version>
     </properties>
 
     <dependencyManagement>
